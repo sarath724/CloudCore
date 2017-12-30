@@ -1,0 +1,7 @@
+* text=auto
+*.gif -text
+*.jpg -txt
+*.pdf -txt
+*.zip -text
+*.gz -text
+*.tgz -text

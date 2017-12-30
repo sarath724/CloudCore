@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+*.sw?
+*~
+*.bak
+.project
+.yardoc
+*.gem
+*.lock
+doc/

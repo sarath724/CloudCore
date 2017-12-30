@@ -1,0 +1,3 @@
+source 'http://gems.mo.sap.corp:8080/geminabox/' do
+  gem 'bs-cloudcore'
+end
